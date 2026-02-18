@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Shaddam Maghany
+# Hi, I'm Muhammad Shaddam Maghany Suryasaputra
+
 
 
 ## 🌐 Socials:
