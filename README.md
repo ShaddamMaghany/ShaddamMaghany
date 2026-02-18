@@ -1,5 +1,8 @@
 # Hi, I'm Muhammad Shaddam Maghany Suryasaputra
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=🚀+Informatics+Student;💻+Web+Developer;🔥+Always+Learning+New+Things;⚡+Building+Real+Projects" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mghnyy._?igsh=MWVtdXNncGp2Y2d1eg%3D%3D&utm_source=qr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@maglogoff?si=nbT9Ygy5Z7eA9fCd) 
