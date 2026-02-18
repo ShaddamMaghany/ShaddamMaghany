@@ -1,7 +1,7 @@
 # Hi, I'm Muhammad Shaddam Maghany Suryasaputra
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6BCB77&center=true&vCenter=true&size=22&lines=Welcome+to+My+Github+Profile+:);+Informatics+Engineering+Student;+Web+Developer;+No+guilt+can+change+the+past+and+no+worry+can+alter+the+future+.;+Vibe+Coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6BCB77&center=true&vCenter=true&size=22&lines=Welcome+to+My+Github+Profile+:);+Informatics+Engineering+Student;+Web+Developer;+No+guilt+can+change+the+past+and+no+worry+can+alter+the+future;+Vibe+Coding" />
 </p>
 
 ## 🌐 Socials:
