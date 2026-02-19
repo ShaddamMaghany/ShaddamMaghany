@@ -1,7 +1,6 @@
 # Hi, I'm Muhammad Shaddam Maghany Suryasaputra
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com font=Orbitron&color=22C55E&center=true&vCenter=true&size=22&lines=Welcome+to+My+Github+Profile+:);+Informatics+Engineering+Student;+Web+Developer;" />
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com font=orbitron&color=22C55E&center=true&vCenter=true&size=22&lines=Welcome+to+My+Github+Profile+:);+Informatics+Engineering+Student;+Web+Developer;"/>
 </p>
 
 
